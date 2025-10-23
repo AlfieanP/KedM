@@ -89,7 +89,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url('/img/tea.jpg');
+  background-image: url('../araT/img/tea.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -403,4 +403,5 @@ footer .credit a {
   html {
     font-size: 55%;
   }
+
 }
